@@ -1,2 +1,5 @@
-My Portfolio
-This is my portfolio.# GitPython
+# My Portfolio
+This is my portfolio.
+
+# GitPython
+This is my computer
